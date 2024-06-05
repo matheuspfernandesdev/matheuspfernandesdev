@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @matheuspfernandesdev
+- 👀 I’m fullstack developer at Rumo Soluções
+- 🌱 I’m learning more about the .NET stack
+- 📫 How to reach me: matheuswith51@hotmail.com
+- ⚡ Fun fact: give some chicken parm 🍛, and don't ever show me frogs 🐸
+
+<!---
+matheuspfernandesdev/matheuspfernandesdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
