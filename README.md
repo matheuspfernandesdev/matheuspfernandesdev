@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matheus Pires Fernandes @matheuspfernandesdev
 - 👀 I’m fullstack developer at Rumo Soluções
-- 🌱 I’m learning more about the .NET stack
+- 🌱 Interested in the .NET stack
 - 📫 How to reach me: matheuswith51@hotmail.com
 - ⚡ Statement: give some chicken parm 🍛, and don't ever show me frogs 🐸
 
